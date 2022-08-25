@@ -1,5 +1,5 @@
-import logo from "../components/Image/MF-logo.jpg";
-import "../components/App.css"
+import logo from "./Image/MF-logo.jpg";
+import "../App.css"
 
 const NavBar = () => {
   return (
